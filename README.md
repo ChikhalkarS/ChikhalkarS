@@ -1,9 +1,5 @@
-#💫 About Me:
-🔭 I’m currently working on building scalable backend applications, high-performing microservices, and libraries<br>👯
-I’m looking to collaborate on Software Development, backend & middleware applications, microservices, and libraries.<br>🌱
-I’m currently learning various AWS Services, Advance Python, Apache Kafka, Fast API, MongoDB, Redis, Graphql<br>💬
-Ask me about Python, AWS Lambda, ECS Fargate, Postgresql, microservices, API development, protocol buffers,
-File processing, python library development.<br>⚡ Fun fact, I love gaming
+👋 Hey there! Welcome to my GitHub!
+I’m a versatile software development professional with a passion for building and deploying low-latency, rock-solid, decentralized, and highly available microservices and web apps. My tech toolkit includes Java ☕️, Angular 2+ 🌐, Postgres 🗄️, GitHub Actions ⚙️, Docker 🐳, Kubernetes 🚀, and AWS ☁️.
 
 
 ## 🌐 Socials:
