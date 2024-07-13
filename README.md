@@ -10,13 +10,18 @@ File processing, python library development.<br>⚡ Fun fact, I love gaming
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-chikhalkar-738066109)
 
 # 💻 Tech Stack:
-[![Java](https://img.shields.io/badge/java-007396?style=plastic&logo=java&logoColor=white)](https://www.java.com)
+[![Java](https://img.shields.io/badge/java-%E2%98%95-007396?style=plastic&logo=java&logoColor=white)](https://www.java.com)
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
 [![Spring Boot](https://img.shields.io/badge/spring%20boot-6DB33F?style=plastic&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![JUnit](https://img.shields.io/badge/JUnit-25A162?style=plastic&logo=java&logoColor=white)](https://junit.org/junit5/)
 [![Angular](https://img.shields.io/badge/angular-DD0031?style=plastic&logo=angular&logoColor=white)](https://angular.io)
+[![REST](https://img.shields.io/badge/REST-005571?style=plastic&logo=rest&logoColor=white)](https://restfulapi.net)
+[![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=plastic&logo=gitlab&logoColor=white)](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=plastic&logo=github-actions&logoColor=white)](https://github.com/features/actions)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
+[![Microservices](https://img.shields.io/badge/Microservices-0078D4?style=plastic&logo=architect&logoColor=white)](https://microservices.io)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)
@@ -52,3 +57,4 @@ File processing, python library development.<br>⚡ Fun fact, I love gaming
 [![](https://visitcount.itsvg.in/api?id=ChikhalkarS&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+    
