@@ -44,13 +44,8 @@ File processing, python library development.<br>⚡ Fun fact, I love gaming
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ChikhalkarS&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=ChikhalkarS&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 ---
