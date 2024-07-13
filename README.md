@@ -8,6 +8,7 @@ File processing, python library development.<br>⚡ Fun fact, I love gaming
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-chikhalkar-738066109)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%E2%9C%A8-9cf?style=plastic)](https://chikhalkarshubham.netlify.app/)
 
 # 💻 Tech Stack:
 [![Java](https://img.shields.io/badge/java-%E2%98%95-007396?style=plastic&logo=java&logoColor=white)](https://www.java.com)
