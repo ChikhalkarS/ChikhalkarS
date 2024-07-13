@@ -1,5 +1,5 @@
 👋 Hey there! Welcome to my GitHub!
-I’m a versatile software development professional with a passion for building and deploying low-latency, rock-solid, decentralized, and highly available microservices and web apps. My tech toolkit includes Java ☕️, Angular 2+ 🌐, Postgres 🗄️, GitHub Actions ⚙️, Docker 🐳, Kubernetes 🚀, and AWS ☁️.
+I am a versatile software development professional with hands-on experience in developing and deploying low-latency, consistent, decentralized, and highly available microservices and web-based applications using Java ☕️, Angular 🌐, Postgres 🗄️, GitHub Actions ⚙️, Docker 🐳, Kubernetes 🚀, and AWS ☁️, producing robust systems to meet diverse customer needs.
 
 
 ## 🌐 Socials:
