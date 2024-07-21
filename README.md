@@ -19,6 +19,7 @@ File processing, python library development.<br>⚡ Fun fact, I love gaming
 [![JUnit](https://img.shields.io/badge/JUnit-25A162?style=plastic&logo=java&logoColor=white)](https://junit.org/junit5/)
 [![Angular](https://img.shields.io/badge/angular-DD0031?style=plastic&logo=angular&logoColor=white)](https://angular.io)
 [![REST](https://img.shields.io/badge/REST-005571?style=plastic&logo=rest&logoColor=white)](https://restfulapi.net)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=plastic&logo=graphql&logoColor=white)
 [![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=plastic&logo=gitlab&logoColor=white)](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=plastic&logo=github-actions&logoColor=white)](https://github.com/features/actions)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
